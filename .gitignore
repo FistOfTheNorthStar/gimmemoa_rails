@@ -23,5 +23,5 @@
 /config/master.key
 
 # bunch of other files
-.DS
+.DS_Store
 .swp
